@@ -1,6 +1,3 @@
-[submodule "Animations/vendor/glm"]
-	path = Animations/vendor/glm
-	url = https://github.com/g-truc/glm
 [submodule "Animations/vendor/dearimgui"]
 	path = Animations/vendor/dearimgui
 	url = https://github.com/ocornut/imgui
@@ -11,21 +8,9 @@
 	path = Animations/vendor/ffmpeg
 	url = https://git.ffmpeg.org/ffmpeg.git
 	ignore=dirty
-[submodule "Animations/vendor/freetype"]
-	path = Animations/vendor/freetype
-	url = https://gitlab.freedesktop.org/freetype/freetype.git
-[submodule "Animations/vendor/GLFW"]
-	path = Animations/vendor/GLFW
-	url = https://github.com/glfw/glfw.git
-[submodule "Animations/vendor/openal"]
-	path = Animations/vendor/openal
-	url = https://github.com/kcat/openal-soft
 [submodule "Animations/vendor/nativeFileDialog"]
 	path = Animations/vendor/nativeFileDialog
 	url = https://github.com/mlabbe/nativefiledialog
-[submodule "Animations/vendor/tinyxml2"]
-	path = Animations/vendor/tinyxml2
-	url = https://github.com/leethomason/tinyxml2
 [submodule "Animations/vendor/plutovg"]
 	path = Animations/vendor/plutovg
 	url = https://github.com/sammycage/plutovg
